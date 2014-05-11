@@ -5,7 +5,7 @@ WORKING:
 
 STEP 1: Photoshop
 
-You first create the ripple on Photoshop. Use a Bevel Emboss effect to get the desired 3D effect. These are the settings that I have used:
+You first create the ripple on Photoshop. Use a Bevel Emboss effect to get the desired 3D effect.
 
 STEP 2: Animate
 
