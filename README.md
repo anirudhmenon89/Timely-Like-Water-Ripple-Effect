@@ -1,6 +1,10 @@
 Timely-Like-Water-Ripple-Effect
 ===============================
 
+Check out my blog for a more detailed explaination and screenshots:
+http://cloudninedev.tumblr.com/post/88748549418/timely-like-water-ripple-effect-on-android
+
+
 WORKING:
 
 STEP 1: Photoshop
